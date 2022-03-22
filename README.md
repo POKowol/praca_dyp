@@ -1,5 +1,7 @@
 # praca dypplomowa
 
+tenat dfadfsd dsfkdf
+
 ## sekcja 1
 
 ### dfef 
